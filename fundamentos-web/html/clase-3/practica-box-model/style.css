@@ -1,0 +1,32 @@
+h1 {
+    text-decoration: underline wavy;
+    text-align: center;
+}
+
+.box {
+    color: white;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#green {
+    background-color: #3fb2aa;
+    color: black;
+    overflow: auto;
+}
+
+#pink {
+    background-color: #f600fd;
+}
+
+#blue {
+    background-color: #08067f;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+}

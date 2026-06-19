@@ -1,0 +1,21 @@
+span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#span-1 {
+    color: red;
+}
+
+#span-2 {
+    color: blue;
+}
+
+h1 {
+    color: #DA4453;
+    /* fallback for old browsers */
+    color: -webkit-linear-gradient(to right, #89216B, #DA4453);
+    /* Chrome 10-25, Safari 5.1-6 */
+    color: linear-gradient(to right, #89216B, #DA4453);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
